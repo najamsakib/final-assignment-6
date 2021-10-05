@@ -1,12 +1,12 @@
 % PlotRawTrajectories.m
 % File defining one of the methods of class BallisticDataAnalysis.
 % =========================================================================
-% Write something short.
+% Assignment 6
 %
-% Describe what this function does and what it assumes
+% Plots the x,y, and z coordinates with respect to time
 % =========================================================================
-% modified (date)
-% by (who)
+% modified (10/05/20)
+% by (Najam Sakib)
 % =========================================================================
 function success = PlotRawTrajectories(obj)
     try
