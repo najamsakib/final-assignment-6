@@ -3,7 +3,7 @@
 % =========================================================================
 % Write something short.
 %
-% Describe what this function does and what it assumes
+% plot average and variance of position 
 % =========================================================================
 % modified (10/05/21)
 % by (Muhtasim Ul Karim Sadaf)
