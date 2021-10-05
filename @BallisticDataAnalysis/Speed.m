@@ -3,7 +3,7 @@
 % =========================================================================
 % Write something short.
 %
-% Describe what this function does and what it assumes
+% Plot the Speed vs Time in X,Y,Z three different lable
 % =========================================================================
 % modified (10/04/2021)
 % by (Zhenyuan Niu)
