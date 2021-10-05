@@ -3,7 +3,7 @@
 % =========================================================================
 % Write something short.
 %
-% Describe what this function does and what it assumes
+% Used to plot and fit 3D parabola and find acceleration due to gravity
 % =========================================================================
 % 10/05/2021
 % Ankan Dutta
