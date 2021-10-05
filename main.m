@@ -16,8 +16,7 @@ try
     % Evaluation of programming task 4.
     Analysis.Speed();
     
-    % Evaluation of programming task 5.
-    Analysis.MeanVelocityToAcceleration();
+    
     
     % Just because!
     disp(' ');
